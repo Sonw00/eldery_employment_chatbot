@@ -1,2 +1,2 @@
 # eldery_employment_chatbot
-노인 취업 챗봇
+시행 : 취업 지원 AI 솔루션 
